@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.REGISTER_FOR_EVENT</OriginalElement>
+  <nodes>
+    <node x="156.25" y="370.0">788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.REGISTER_FOR_EVENT</node>
+    <node x="0.0" y="0.0">788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.WEB_USER</node>
+    <node x="283.0" y="12.0">788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.EVENT</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.REGISTER_FOR_EVENT" target="788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.WEB_USER">
+      <point x="-51.0" y="-112.0" />
+      <point x="207.25" y="345.0" />
+      <point x="131.5" y="345.0" />
+      <point x="0.0" y="160.0" />
+    </edge>
+    <edge source="788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.REGISTER_FOR_EVENT" target="788ba072-de63-4b00-bd84-06b5c9cc7a07.TABLE:pictcsi.EVENT">
+      <point x="51.0" y="-112.0" />
+      <point x="309.25" y="345.0" />
+      <point x="385.0" y="345.0" />
+      <point x="0.0" y="148.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="243.5" y="297.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+  </Categories>
+</Diagram>
+
